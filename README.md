@@ -27,7 +27,7 @@ Please add project name, clear description (please be brief), and links to relev
 | --- | --- | --- |
 | analysis-tool | This repository houses scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git) |
 | matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/oep-installation.git) |
-
+|Set Shift project|The code Ellie and Evan generally use for Setshift related things|[master](https://github.com/tne-lab/ee-lib)|
 
 
 ## COMPASS toolkit
