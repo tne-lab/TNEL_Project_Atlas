@@ -47,3 +47,7 @@ Please add project name, clear description (please be brief), and links to relev
 | py-behav-box | This repository houses the code to control the behavior chamber, this is one older version. | [master](https://github.com/tne-lab/py-behav-box.git) |
 | py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/py-behav-box-v2.git) |
 
+## Lab Papers
+| Project Name | Description | Active branch(es) |
+| --- | --- | --- |
+| DBSParameterOptimization2022 | Code for simulation of DBS optimization. | [master](https://github.com/tne-lab/DBSParameterOptimization2022.git) |
