@@ -30,13 +30,13 @@ Please add project name, clear description (please be brief), and links to relev
 | --- | --- | --- |
 | analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
 | py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
-| matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/oep-installation.git) |
+| matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
 
 
 ## COMPASS toolkit
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| compass-toolkit-python| Code for the compass toolkit for the encoding and decoding of the states. | [master](https://github.com/tne-lab/oep-installation.git) |
+| compass-toolkit-python| Code for the compass toolkit for the encoding and decoding of the states in python. | [master](https://github.com/tne-lab/compass-toolkit-python.git) |
 
 
 ## Pybehav
