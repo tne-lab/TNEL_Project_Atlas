@@ -28,6 +28,7 @@ Please add project name, clear description (please be brief), and links to relev
 |Set Shift project|The code Ellie and Evan generally use for Setshift related things|[master](https://github.com/tne-lab/ee-lib)|
 |Device project|Code related to device project|[master](https://github.com/tne-lab/ASIC-testing-v2.git)|
 
+| Project Name | Description | Active branch(es) |
 | --- | --- | --- |
 | analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
 | py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
