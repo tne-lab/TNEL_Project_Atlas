@@ -4,7 +4,7 @@ Please add project name, clear description (please be brief), and links to relev
 
 ## Table of Contents
 * [Open ephys plugins](#open-ephys-plugins)
-* [analysis tools](#analysis-tools)
+* [Analysis tool](#analysis-tools)
 * [COMPASS toolkit](#compass-toolkit)
 * [PyBehav](#pybehav)
 
