@@ -25,10 +25,14 @@ Please add project name, clear description (please be brief), and links to relev
 ## Analysis tool
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| analysis-tool | This repository houses scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/analysis-tools.git) |
-| matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/oep-installation.git) |
 |Set Shift project|The code Ellie and Evan generally use for Setshift related things|[master](https://github.com/tne-lab/ee-lib)|
 |Device project|Code related to device project|[master](https://github.com/tne-lab/ASIC-testing-v2.git)|
+
+| --- | --- | --- |
+| analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
+| py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
+| matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/oep-installation.git) |
+
 
 ## COMPASS toolkit
 | Project Name | Description | Active branch(es) |
