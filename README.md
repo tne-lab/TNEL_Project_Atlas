@@ -26,6 +26,7 @@ Please add project name, clear description (please be brief), and links to relev
 | --- | --- | --- |
 |Set Shift project|The code Ellie and Evan generally use for Setshift related things|[master](https://github.com/tne-lab/ee-lib)|
 |Device project|Code related to device project|[master](https://github.com/tne-lab/ASIC-testing-v2.git)|
+|device-data-pipeline|Code related to device project data analysis|[master](https://github.com/tne-lab/device-data-pipeline.git)|
 
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
