@@ -22,17 +22,18 @@ Please add project name, clear description (please be brief), and links to relev
 | Sample Math | Performs simple samplewise arithmetic on continuous channels  | [master](https://github.com/tne-lab/sample-math/tree/master) |
 | Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
 
-## Behaviour analysis
+## Analysis tool
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| Open Ephys installation | This repository houses scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git) |
+| analysis-tool | This repository houses scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git) |
+| matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/oep-installation.git) |
 
 
 
-## Ephys analysis
+## COMPASS toolkit
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| Open Ephys installation | This repository houses scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git) |
+| compass-toolkit-python| Code for the compass toolkit for the encoding and decoding of the states. | [master](https://github.com/tne-lab/oep-installation.git) |
 
 
 ## Pybehav
