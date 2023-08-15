@@ -2,8 +2,6 @@
 Please add project name, clear description (please be brief), and links to relevant GitHub folder. Kindly indicate active branch. This ensures accurate, up-to-date information for a comprehensive understanding of the project. Thank you.
 
 
-
-
 ## Table of Contents
 * [Open ephys plugins](#open-ephys-plugins)
 * [Behavior analysis](#behaviour-analysis)
@@ -44,6 +42,6 @@ Please add project name, clear description (please be brief), and links to relev
 ## Pybehav
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| py-behav-box | This repository houses the code to control the behavior chamber, this is one older version. | [master](https://github.com/tne-lab/oep-installation.git) |
-| py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/oep-installation.git) |
+| py-behav-box | This repository houses the code to control the behavior chamber, this is one older version. | [master](https://github.com/tne-lab/py-behav-box.git) |
+| py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/py-behav-box-v2.git) |
 
