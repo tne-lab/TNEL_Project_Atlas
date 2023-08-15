@@ -38,5 +38,6 @@ Please add project name, clear description (please be brief), and links to relev
 ## Pybehav
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| Open Ephys installation | This repository houses scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git) |
+| py-behav-box | This repository houses the code to control the behavior chamber, this is one older version. | [master](https://github.com/tne-lab/oep-installation.git) |
+| py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/oep-installation.git) |
 
