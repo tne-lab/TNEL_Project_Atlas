@@ -15,7 +15,7 @@ Please add project name, clear description (please be brief), and links to relev
 | --- | --- | --- |
 | Open Ephys installation | Scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git)
 | Plugin GUI | TNE's version of the Open Ephys GUI  | [master](https://github.com/tne-lab/plugin-GUI) |
-| Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [master](https://github.com/tne-lab/phase-calculator)
+| Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [master](https://github.com/tne-lab/TORTE.git)
 | LSL-inlet | Receives data and event markers through the [LSL protocol](https://labstreaminglayer.org/#/). | [master](https://github.com/tne-lab/LSL-inlet) <br /> [v6 downgrade](https://github.com/tne-lab/LSL-inlet/tree/v6-downgrade) |
 | Crossing Detector | Detects when signals rise and fall across thresholds. Typically used in combination with the phase calculator.  | [master](https://github.com/tne-lab/crossing-detector) |
 | Mean Spike Rate | Estimates an exponentially-weighted recent spike rate over time and channels. | [master](https://github.com/tne-lab/mean-spike-rate/tree/master) |
