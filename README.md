@@ -62,14 +62,11 @@ Please add project name, clear description (please be brief), and links to relev
 ## Libraries
 | Library | Description | Active branch(es) |
 | --- | --- | --- |
-| **Fieldtrip**| |  |
-| Fieldtrip | Fieldtrip library. | [download](https://www.fieldtriptoolbox.org/download/) |
-| analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
-| py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
-| **For plugin development**| |  |
-| JUCE| List of function readilly available to be used in the plugin. | [tutorial link](https://docs.juce.com/develop/index.html) |
-| **Compass Toolkit python**| |  |
-| compass-toolkit-python| Code for the compass toolkit for the encoding and decoding of the states in python. | [main](https://github.com/tne-lab/compass-toolkit-python.git) |
+| **Fieldtrip** | Fieldtrip library. | [download](https://www.fieldtriptoolbox.org/download/) |
+| **analysis-tool** | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
+| **py-tools** | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
+| **JUCE**| List of function readilly available to be used in the plugin. | [tutorial link](https://docs.juce.com/develop/index.html) |
+| **compass toolkit py**| Code for the compass toolkit for the encoding and decoding of the states in python. | [main](https://github.com/tne-lab/compass-toolkit-python.git) |
 
 ## Lab Papers
 | Paper | Description |
