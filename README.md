@@ -10,12 +10,12 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 * [Libraries](#libraries)
 * [Lab Papers](#lab-papers)
 
-## Open ephys installation
+## Open Ephys installation
 | Installation | Description |
 | --- | --- | 
 | [Open Ephys installation](https://github.com/tne-lab/oep-installation.git) | Scripts for easy installation of Open Ephys and useful plugins.
 
-## Open ephys plugins
+## Open Ephys plugins
 | Plugin Name | Description | Active branch(es) |
 | --- | --- | --- |
 | **Overall GUI**| |  |
