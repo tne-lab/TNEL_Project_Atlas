@@ -38,20 +38,17 @@ Please add project name, clear description (please be brief), and links to relev
 | **Set Shift project**| |  |
 |Set Shift project|The code Ellie and Evan generally use for Setshift related things|[main](https://github.com/tne-lab/ee-lib)|
 
-| Project Name | Description | Active branch(es) |
-| --- | --- | --- |
+
 | **Device project**| |  |
 |ASIC project|Code related to device project|[main](https://github.com/tne-lab/ASIC-testing-v2.git)|
 |Device data pipeline|Code related to device project data analysis|[master](https://github.com/tne-lab/device-data-pipeline.git)|
 |mtm coh|Code related to device project data analysis|[main](https://github.com/tne-lab/mtm-coh.git)|
 
-| Project Name | Description | Active branch(es) |
-| --- | --- | --- |
+
 | **Addiction project**| |  |
 |Addiction project|Addiction project|[master](https://github.com/tne-lab/addiction_project2)|
 
-| Project Name | Description | Active branch(es) |
-| --- | --- | --- |
+
 | **Data fetching and analysis**| |  |
 | matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [main](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
 
