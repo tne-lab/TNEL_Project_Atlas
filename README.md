@@ -11,9 +11,9 @@ Please add project name, clear description (please be brief), and links to relev
 * [Lab Papers](#lab-papers)
 
 ## Open ephys installation
-| Installation | Description | Active branch(es) |
-| --- | --- | --- |
-| Open Ephys installation | Scripts for easy installation of Open Ephys and useful plugins. | [link](https://github.com/tne-lab/oep-installation.git)
+| Installation | Description |
+| --- | --- | 
+| [Open Ephys installation](https://github.com/tne-lab/oep-installation.git) | Scripts for easy installation of Open Ephys and useful plugins.
 
 ## Open ephys plugins
 | Plugin Name | Description | Active branch(es) |
