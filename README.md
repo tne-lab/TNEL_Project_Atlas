@@ -19,15 +19,18 @@ Please add project name, clear description (please be brief), and links to relev
 ## Open ephys plugins
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| overall | --- | --- |
+| **Overall GUI**| |  |
 | Plugin GUI | TNE's version of the Open Ephys GUI  | [master](https://github.com/tne-lab/plugin-GUI) |
-| Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [master](https://github.com/tne-lab/TORTE.git)
+| **SOURCES**| |  |
 | LSL-inlet | Receives data and event markers through the [LSL protocol](https://labstreaminglayer.org/#/). | [master](https://github.com/tne-lab/LSL-inlet) <br /> [v6 downgrade](https://github.com/tne-lab/LSL-inlet/tree/v6-downgrade) |
+| **FILTER**| |  |
+| Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [master](https://github.com/tne-lab/TORTE.git)
 | Crossing Detector | Detects when signals rise and fall across thresholds. Typically used in combination with the phase calculator.  | [master](https://github.com/tne-lab/crossing-detector) |
 | Mean Spike Rate | Estimates an exponentially-weighted recent spike rate over time and channels. | [master](https://github.com/tne-lab/mean-spike-rate/tree/master) |
 | Sample Math | Performs simple samplewise arithmetic on continuous channels  | [master](https://github.com/tne-lab/sample-math/tree/master) |
-| Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
 | Independent component analysis | This plugin for the Open Ephys GUI allows you to decompose incoming data using ICA | [master](https://github.com/tne-lab/ica-plugin.git) |
+| **SINKS**| |  |
+| Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
 
 ## Analysis tool
 | Project Name | Description | Active branch(es) |
