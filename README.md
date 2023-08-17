@@ -39,15 +39,13 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 ## Analysis tool
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| **Set Shift project**| |  |
-|Set Shift project|The code Ellie and Evan generally use for Setshift related things|[main](https://github.com/tne-lab/ee-lib)|
+|**Set Shift project**|The code Ellie and Evan generally use for Setshift related things|[main](https://github.com/tne-lab/ee-lib)|
 | **Device project**| |  |
 |ASIC project|Code related to ASIC device|[main](https://github.com/tne-lab/ASIC-testing-v2.git)|
 |Device data pipeline|Code related to device project data analysis|[master](https://github.com/tne-lab/device-data-pipeline.git)|
 |mtm coh|Code related to device project data analysis|[main](https://github.com/tne-lab/mtm-coh.git)|
-| **Addiction project**| |  |
-|Addiction project|Addiction project|[master](https://github.com/tne-lab/addiction_project2)|
-| **Data fetching and TFR analysis**| |  |
+|**Addiction project**|Addiction project|[master](https://github.com/tne-lab/addiction_project2)|
+| **MATLAB data fetching and TFR analysis**| |  |
 | matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [main](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
 | **LabVIEW Stim**| |  |
 | Closed loop stim | This repository mainly houses LabVIEW code for receiving TTL events from the Open Ephys GUI and outputting stimulation pulses on an NI DAQ in response. There are also general VIs for interfacing with Open Ephys in other ways.| [main](https://github.com/tne-lab/closed-loop-stim.git) |
