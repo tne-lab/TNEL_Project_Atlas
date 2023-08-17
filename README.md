@@ -69,10 +69,10 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | Library | Description | Active branch(es) |
 | --- | --- | --- |
 | **Fieldtrip** | Fieldtrip library. | [download](https://www.fieldtriptoolbox.org/download/) |
-| **analysis-tool** | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
-| **py-tools** | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
-| **npy matlab**| Code to read and write NumPy's NPY format (.npy files) in MATLAB. | [master](https://github.com/tne-lab/npy-matlab.git) |
-| **compass toolkit py**| Code for the compass toolkit for the encoding and decoding of the states in python. | [main](https://github.com/tne-lab/compass-toolkit-python.git) |
+| **Analysis Tool** | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
+| **py Tools** | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
+| **npy Matlab**| Code to read and write NumPy's NPY format (.npy files) in MATLAB. | [master](https://github.com/tne-lab/npy-matlab.git) |
+| **Compass toolkit py**| Code for the compass toolkit for the encoding and decoding of the states in python. | [main](https://github.com/tne-lab/compass-toolkit-python.git) |
 | **OpenEphysFFTW**| This is a small library to wrap FFTW functionality useful for Open Ephys. | [master](https://github.com/tne-lab/OpenEphysFFTW.git) |
 | **OpenEphysHDF5Lib**| A common library for all formats that write HDF5 files. | [master](https://github.com/tne-lab/OpenEphysHDF5Lib.git) |
 | **KWIKFormat**| A plugin to record to and read from files based on the KWIK specification. | [master](https://github.com/tne-lab/KWIKFormat.git) |
