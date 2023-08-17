@@ -23,6 +23,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | **SOURCES**| |  |
 | Neuralynx | Receives data from neuralynx. | [master](https://github.com/tne-lab/neuralynx-plugin.git)|
 | LSL-inlet | Receives data and event markers through the [LSL protocol](https://labstreaminglayer.org/#/). | [master](https://github.com/tne-lab/LSL-inlet) <br /> [v6 downgrade](https://github.com/tne-lab/LSL-inlet/tree/v6-downgrade) |
+| Network Events | Receiving events from other components. | [main](https://github.com/open-ephys-plugins/network-events.git) |
 | **FILTER**| |  |
 | Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [main](https://github.com/tne-lab/TORTE.git)
 | Crossing Detector | Detects when signals rise and fall across thresholds. Typically used in combination with the phase calculator.  | [master](https://github.com/tne-lab/crossing-detector) |
@@ -31,6 +32,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | Independent component analysis | This plugin for the Open Ephys GUI allows you to decompose incoming data using ICA | [master](https://github.com/tne-lab/ica-plugin.git) |
 | **SINKS**| |  |
 | Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
+| Event broadcaster | Sending events to other software communicating with open ephys | [main](https://github.com/tne-lab/event-broadcaster.git) |
 
 ## Analysis tool
 | Project Name | Description | Active branch(es) |
@@ -45,6 +47,8 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 |Addiction project|Addiction project|[master](https://github.com/tne-lab/addiction_project2)|
 | **Data fetching and TFR analysis**| |  |
 | matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [main](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
+| **LabVIEW Stim**| |  |
+| Closed loop stim | This repository mainly houses LabVIEW code for receiving TTL events from the Open Ephys GUI and outputting stimulation pulses on an NI DAQ in response. There are also general VIs for interfacing with Open Ephys in other ways.| [main](https://github.com/tne-lab/closed-loop-stim.git) |
 
 ## Phase calculator
 | Project Name | Description | Active branch(es) |
@@ -63,8 +67,9 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | **Fieldtrip** | Fieldtrip library. | [download](https://www.fieldtriptoolbox.org/download/) |
 | **analysis-tool** | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
 | **py-tools** | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
-| **JUCE**| List of function readilly available to be used in the plugin. | [tutorial link](https://docs.juce.com/develop/index.html) |
+| **npy matlab**| Code to read and write NumPy's NPY format (.npy files) in MATLAB. | [master](https://github.com/tne-lab/npy-matlab.git) |
 | **compass toolkit py**| Code for the compass toolkit for the encoding and decoding of the states in python. | [main](https://github.com/tne-lab/compass-toolkit-python.git) |
+| **OpenEphysFFTW**| This is a small library to wrap FFTW functionality useful for Open Ephys. | [master](https://github.com/tne-lab/OpenEphysFFTW.git) |
 
 ## Lab Papers
 | Paper | Description |
@@ -73,3 +78,4 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | [MSIT-Nature-Biomedical-Engineering](https://github.com/tne-lab/MSIT-Nature-Biomedical-Engineering.git) | MSIT-Nature-Biomedical-Engineering paper  |
 | [DBSParameterOptimization2022](https://github.com/tne-lab/DBSParameterOptimization2022.git) | Code for simulation of DBS optimization. | 
 | [Headstage-accelerometry-paper-2022](https://github.com/tne-lab/Headstage-accelerometry-paper-2022.git) | Code for simulation of Headstage-accelerometry-paper-2022. |
+| [Widge-Tractography-2021 ](https://github.com/tne-lab/Widge-Tractography-2021.git) | Analysis code for the Widge tractography 2021 paper.|
