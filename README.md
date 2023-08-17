@@ -33,8 +33,6 @@ Please add project name, clear description (please be brief), and links to relev
 
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
-| py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
 | matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [master](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
 
 ## Phase calculator
@@ -53,6 +51,13 @@ Please add project name, clear description (please be brief), and links to relev
 | --- | --- | --- |
 | py-behav-box | This repository houses the code to control the behavior chamber, this is one older version. | [master](https://github.com/tne-lab/py-behav-box.git) |
 | py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/py-behav-box-v2.git) |
+
+## Libraries
+| Project Name | Description | Active branch(es) |
+| --- | --- | --- |
+| Fieldtrip | Fieldtrip library. | [master](https://www.fieldtriptoolbox.org/download/) |
+| analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
+| py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
 
 ## Lab Papers
 | Project Name | Description | Active branch(es) |
