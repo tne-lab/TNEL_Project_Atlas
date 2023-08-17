@@ -22,6 +22,7 @@ Please add project name, clear description (please be brief), and links to relev
 | **Overall GUI**| |  |
 | Plugin GUI | TNE's version of the Open Ephys GUI  | [master](https://github.com/tne-lab/plugin-GUI) |
 | **SOURCES**| |  |
+| Neuralynx | Receives data from neuralynx. | [master](https://github.com/tne-lab/neuralynx-plugin.git)|
 | LSL-inlet | Receives data and event markers through the [LSL protocol](https://labstreaminglayer.org/#/). | [master](https://github.com/tne-lab/LSL-inlet) <br /> [v6 downgrade](https://github.com/tne-lab/LSL-inlet/tree/v6-downgrade) |
 | **FILTER**| |  |
 | Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [master](https://github.com/tne-lab/TORTE.git)
