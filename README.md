@@ -60,7 +60,7 @@ Please add project name, clear description (please be brief), and links to relev
 | py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [link](https://github.com/tne-lab/py-behav-box-v2.git) |
 
 ## Libraries
-| Project Name | Description | Active branch(es) |
+| Library | Description | Active branch(es) |
 | --- | --- | --- |
 | **Fieldtrip**| |  |
 | Fieldtrip | Fieldtrip library. | [link](https://www.fieldtriptoolbox.org/download/) |
@@ -72,9 +72,9 @@ Please add project name, clear description (please be brief), and links to relev
 | compass-toolkit-python| Code for the compass toolkit for the encoding and decoding of the states in python. | [link](https://github.com/tne-lab/compass-toolkit-python.git) |
 
 ## Lab Papers
-| Project Name | Description | Active branch(es) |
-| --- | --- | --- |
-| Olsen et al. (2020, Frontiers in Human Neuroscience) Analysis. | This script produces most of the figures in this article. The article details the case report of the first participant in this clinical trial.| [link](https://github.com/tne-lab/Olsen-et-al-2020.git) |
-| MSIT-Nature-Biomedical-Engineering | MSIT-Nature-Biomedical-Engineering paper  | [link](https://github.com/tne-lab/MSIT-Nature-Biomedical-Engineering.git) |
-| DBSParameterOptimization2022 | Code for simulation of DBS optimization. | [link](https://github.com/tne-lab/DBSParameterOptimization2022.git) |
-| Headstage-accelerometry-paper-2022 | Code for simulation of Headstage-accelerometry-paper-2022. | [link](https://github.com/tne-lab/Headstage-accelerometry-paper-2022.git) |
+| Paper | Description |
+| --- | --- | 
+| [Olsen et al. (2020, Frontiers in Human Neuroscience) Analysis.](https://github.com/tne-lab/Olsen-et-al-2020.git)| This script produces most of the figures in this article. The article details the case report of the first participant in this clinical trial.| 
+| [MSIT-Nature-Biomedical-Engineering](https://github.com/tne-lab/MSIT-Nature-Biomedical-Engineering.git) | MSIT-Nature-Biomedical-Engineering paper  |
+| [DBSParameterOptimization2022](https://github.com/tne-lab/DBSParameterOptimization2022.git) | Code for simulation of DBS optimization. | 
+| [Headstage-accelerometry-paper-2022](https://github.com/tne-lab/Headstage-accelerometry-paper-2022.git) | Code for simulation of Headstage-accelerometry-paper-2022. |
