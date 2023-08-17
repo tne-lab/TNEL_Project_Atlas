@@ -32,7 +32,6 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | Sample Math | Performs simple samplewise arithmetic on continuous channels  | [master](https://github.com/tne-lab/sample-math/tree/master) |
 | Independent component analysis | This plugin for the Open Ephys GUI allows you to decompose incoming data using ICA | [master](https://github.com/tne-lab/ica-plugin.git) |
 | continuous-stats | Plugin for the Open Ephys GUI to compute the exponentially weighted sliding mean or standard deviation of incoming continuous data. | [master](https://github.com/tne-lab/continuous-stats.git) |
-
 | **SINKS**| |  |
 | Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
 | Event broadcaster | Sending events to other software communicating with open ephys | [main](https://github.com/tne-lab/event-broadcaster.git) |
