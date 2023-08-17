@@ -74,4 +74,7 @@ Please add project name, clear description (please be brief), and links to relev
 ## Lab Papers
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
+| Olsen et al. (2020, Frontiers in Human Neuroscience) Analysis. | This script produces most of the figures in this article. The article details the case report of the first participant in this clinical trial.| [master](https://github.com/tne-lab/Olsen-et-al-2020.git) |
+| MSIT-Nature-Biomedical-Engineering | MSIT-Nature-Biomedical-Engineering paper  | [master](https://github.com/tne-lab/MSIT-Nature-Biomedical-Engineering.git) |
 | DBSParameterOptimization2022 | Code for simulation of DBS optimization. | [master](https://github.com/tne-lab/DBSParameterOptimization2022.git) |
+| Headstage-accelerometry-paper-2022 | Code for simulation of Headstage-accelerometry-paper-2022. | [master](https://github.com/tne-lab/Headstage-accelerometry-paper-2022.git) |
