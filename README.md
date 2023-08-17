@@ -20,13 +20,11 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | --- | --- | --- |
 | **Overall GUI**| |  |
 | Plugin GUI | TNE's version of the Open Ephys GUI  | [tnel-master](https://github.com/tne-lab/plugin-GUI) |
-
 | **SOURCES**| |  |
 | Neuralynx | Receives data from neuralynx. | [master](https://github.com/tne-lab/neuralynx-plugin.git)|
 | LSL-inlet | Receives data and event markers through the [LSL protocol](https://labstreaminglayer.org/#/). | [master](https://github.com/tne-lab/LSL-inlet) <br /> [v6 downgrade](https://github.com/tne-lab/LSL-inlet/tree/v6-downgrade) |
 | Network Events | Receiving events from other components. | [main](https://github.com/open-ephys-plugins/network-events.git) |
 | NWBFormat | A format to record to files based on the Neurodata Without Borders 1.0 specification.| [master](https://github.com/tne-lab/NWBFormat.git)|
-
 | **FILTER**| |  |
 | Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [main](https://github.com/tne-lab/TORTE.git)
 | Crossing Detector | Detects when signals rise and fall across thresholds. Typically used in combination with the phase calculator.  | [master](https://github.com/tne-lab/crossing-detector) |
