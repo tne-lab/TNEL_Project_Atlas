@@ -7,6 +7,7 @@ Please add project name, clear description (please be brief), and links to relev
 * [Analysis tool](#analysis-tool)
 * [COMPASS toolkit](#compass-toolkit)
 * [PyBehav](#pybehav)
+* [Libraries](#libraries)
 * [Lab Papers](#lab-papers)
 
 ## Open ephys plugins
