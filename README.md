@@ -59,6 +59,8 @@ Please add project name, clear description (please be brief), and links to relev
 | Fieldtrip | Fieldtrip library. | [master](https://www.fieldtriptoolbox.org/download/) |
 | analysis-tool | This repository contains code to read and convert open ephys data to matlab. | [master](https://github.com/tne-lab/analysis-tools.git) |
 | py-tools | Code includes analysis of open ephys data in python, along with code for controlling other components such as camera. | [master](https://github.com/tne-lab/py-tools.git) |
+| JUCE| List of function readilly available to be used in the plugin. | [master](https://docs.juce.com/develop/index.html) |
+
 
 ## Lab Papers
 | Project Name | Description | Active branch(es) |
