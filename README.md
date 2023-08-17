@@ -38,7 +38,7 @@ Please add project name, clear description (please be brief), and links to relev
 | **Set Shift project**| |  |
 |Set Shift project|The code Ellie and Evan generally use for Setshift related things|[main](https://github.com/tne-lab/ee-lib)|
 | **Device project**| |  |
-|ASIC project|Code related to device project|[main](https://github.com/tne-lab/ASIC-testing-v2.git)|
+|ASIC project|Code related to ASIC device|[main](https://github.com/tne-lab/ASIC-testing-v2.git)|
 |Device data pipeline|Code related to device project data analysis|[master](https://github.com/tne-lab/device-data-pipeline.git)|
 |mtm coh|Code related to device project data analysis|[main](https://github.com/tne-lab/mtm-coh.git)|
 | **Addiction project**| |  |
