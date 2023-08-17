@@ -3,17 +3,23 @@ Please add project name, clear description (please be brief), and links to relev
 
 
 ## Table of Contents
-* [Open ephys plugins](#open-ephys-plugins)
+* [Open ephys installation](#open-ephys-plugins)
+* [Open ephys plugins](#open-ephys-installation)
 * [Analysis tool](#analysis-tool)
 * [COMPASS toolkit](#compass-toolkit)
 * [PyBehav](#pybehav)
 * [Libraries](#libraries)
 * [Lab Papers](#lab-papers)
 
-## Open ephys plugins
+## Open ephys installation
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
 | Open Ephys installation | Scripts for easy installation of Open Ephys and useful plugins. | [master](https://github.com/tne-lab/oep-installation.git)
+
+## Open ephys plugins
+| Project Name | Description | Active branch(es) |
+| --- | --- | --- |
+| overall | --- | --- |
 | Plugin GUI | TNE's version of the Open Ephys GUI  | [master](https://github.com/tne-lab/plugin-GUI) |
 | Phase Calculator (TORTE) | Estimates the phase of inputs within a specified passband in real time. | [master](https://github.com/tne-lab/TORTE.git)
 | LSL-inlet | Receives data and event markers through the [LSL protocol](https://labstreaminglayer.org/#/). | [master](https://github.com/tne-lab/LSL-inlet) <br /> [v6 downgrade](https://github.com/tne-lab/LSL-inlet/tree/v6-downgrade) |
