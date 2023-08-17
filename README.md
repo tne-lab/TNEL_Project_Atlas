@@ -43,21 +43,19 @@ Please add project name, clear description (please be brief), and links to relev
 |mtm coh|Code related to device project data analysis|[main](https://github.com/tne-lab/mtm-coh.git)|
 | **Addiction project**| |  |
 |Addiction project|Addiction project|[master](https://github.com/tne-lab/addiction_project2)|
-| **Data fetching and analysis**| |  |
+| **Data fetching and TFR analysis**| |  |
 | matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [main](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
 
 ## Phase calculator
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| Phase calculator simulations| MTALAB version of our TORTE phase calculator. (hilbert_transformer_phase.m) | [matlab code](https://github.com/tne-lab/closed-loop-matlab/blob/master/simulation/hilbert_transformer_phase.m) |
+| **Phase calculator simulations**| MTALAB version of our TORTE phase calculator. (hilbert_transformer_phase.m) | [matlab code](https://github.com/tne-lab/closed-loop-matlab/blob/master/simulation/hilbert_transformer_phase.m) |
 
 ## Pybehav
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| **Python behaviour code (old)**| |  |
-| py-behav-box | This repository houses the code to control the behavior chamber, this is one older version. | [exp-class](https://github.com/tne-lab/py-behav-box.git) |
-| **Python behaviour code version 2**| |  |
-| py-behav-box-2 | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/py-behav-box-v2.git) |
+| **Python behaviour code (old)** | This repository houses the code to control the behavior chamber, this is one older version. | [exp-class](https://github.com/tne-lab/py-behav-box.git) |
+| **Python behaviour code version 2** | This repository houses the code to control the behavior chamber, this is newer version. | [master](https://github.com/tne-lab/py-behav-box-v2.git) |
 
 ## Libraries
 | Library | Description | Active branch(es) |
