@@ -45,8 +45,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 |Device data pipeline|Code related to device project data analysis|[master](https://github.com/tne-lab/device-data-pipeline.git)|
 |mtm coh|Code related to device project data analysis|[main](https://github.com/tne-lab/mtm-coh.git)|
 |**Addiction project**|Addiction project|[master](https://github.com/tne-lab/addiction_project2)|
-| **MATLAB data fetching and TFR analysis**| |  |
-| matlab-tnel-analysis-code | Code to calculate the time frequency analysis in matlab | [main](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
+| **MATLAB data fetching and TFR analysis**| Code to calculate the time frequency analysis in matlab | [main](https://github.com/tne-lab/matlab-tnel-analysis-code.git) |
 | **LabVIEW Stim**| |  |
 | Closed loop stim | This repository mainly houses LabVIEW code for receiving TTL events from the Open Ephys GUI and outputting stimulation pulses on an NI DAQ in response. There are also general VIs for interfacing with Open Ephys in other ways.| [main](https://github.com/tne-lab/closed-loop-stim.git) |
 | **Real time ERP**| |  |
