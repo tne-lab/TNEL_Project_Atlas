@@ -3,7 +3,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 
 
 ## Table of Contents
-* [Open ephys installation](#open-ephys-plugins)
+* [Open Ephys installation](#open-ephys-plugins)
 * [Open ephys plugins](#open-ephys-installation)
 * [Project based tool](#project-based-tool)
 * [PyBehav](#pybehav)
