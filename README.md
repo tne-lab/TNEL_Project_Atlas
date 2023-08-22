@@ -5,7 +5,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 ## Table of Contents
 * [Open ephys installation](#open-ephys-plugins)
 * [Open ephys plugins](#open-ephys-installation)
-* [Analysis tool](#analysis-tool)
+* [Project based tool](#project-based-tool)
 * [PyBehav](#pybehav)
 * [Libraries](#libraries)
 * [Lab Papers](#lab-papers)
@@ -36,7 +36,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
 | Event broadcaster | Sending events to other software communicating with open ephys | [main](https://github.com/tne-lab/event-broadcaster.git) |
 
-## Analysis tool
+## Project based tool
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
 |**Set Shift project**|The code Ellie and Evan generally use for Setshift related things|[main](https://github.com/tne-lab/ee-lib)|
