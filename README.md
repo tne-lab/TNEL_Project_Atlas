@@ -50,6 +50,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | Closed loop stim | This repository mainly houses LabVIEW code for receiving TTL events from the Open Ephys GUI and outputting stimulation pulses on an NI DAQ in response. There are also general VIs for interfacing with Open Ephys in other ways.| [main](https://github.com/tne-lab/closed-loop-stim.git) |
 | **Real time ERP**| |  |
 | real-time-ERP| This repository contains a plugin for the Open Ephys GUI. This plugin provides the user with the ability to visualize and calculate event related potentials in real time from a variety of event sources.| [master](https://github.com/tne-lab/real-time-ERP.git) |
+| **PMA Project**| PMA Project | [main](https://github.com/tne-lab/PMAProject) |
 
 ## Phase calculator
 | Project Name | Description | Active branch(es) |
