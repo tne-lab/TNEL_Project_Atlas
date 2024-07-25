@@ -35,7 +35,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | **SINKS**| |  |
 | Coherence Spectrogram Viewer | Plots coherance and spectrogram (power vs. frequency)  | [master](https://github.com/tne-lab/Coherence-Spectrogram-Viewer) |
 | Event broadcaster | Sending events to other software communicating with open ephys | [main](https://github.com/tne-lab/event-broadcaster.git) |
-
+| Parallel Port Output | A plugin that sends TTL events for a given channel over a parallel port. | [main](https://github.com/tne-lab/parallel-port-output.git) |
 ## Project based tool
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
