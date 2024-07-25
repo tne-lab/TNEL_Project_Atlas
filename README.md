@@ -55,7 +55,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 ## Phase calculator
 | Project Name | Description | Active branch(es) |
 | --- | --- | --- |
-| **Phase calculator simulations**| MTALAB version of our TORTE phase calculator. (hilbert_transformer_phase.m) | [matlab code](https://github.com/tne-lab/closed-loop-matlab/blob/master/simulation/hilbert_transformer_phase.m) |
+| **Phase calculator simulations**| MATLAB version of our TORTE phase calculator. (hilbert_transformer_phase.m) | [matlab code](https://github.com/tne-lab/closed-loop-matlab/blob/master/simulation/hilbert_transformer_phase.m) |
 
 ## Pybehav
 | Project Name | Description | Active branch(es) |
