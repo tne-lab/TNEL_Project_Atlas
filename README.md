@@ -51,6 +51,7 @@ This serves as an entrance to a realm of sought-after code, capable of resolving
 | **Real time ERP**| |  |
 | real-time-ERP| This repository contains a plugin for the Open Ephys GUI. This plugin provides the user with the ability to visualize and calculate event related potentials in real time from a variety of event sources.| [master](https://github.com/tne-lab/real-time-ERP.git) |
 | **PMA Project**| PMA Project | [main](https://github.com/tne-lab/PMAProject) |
+| **SAD Project**| This repository contains all the relevant code for the sex avoidance differences project (PMA). | [main](https://github.com/tne-lab/PMASexAvoidanceDifferences/tree/main)|
 
 ## Phase calculator
 | Project Name | Description | Active branch(es) |
